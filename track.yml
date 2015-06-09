@@ -2,4 +2,5 @@
 track:
     title: SQL for Chipmunks
     uuid: 95d5a895-6b73-4d35-814d-b48d7ed937db
-    topics: []
+    topics:
+    - title: hi
